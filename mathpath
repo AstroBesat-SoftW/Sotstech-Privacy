@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for MathPath Console</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #222;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 20px;
+        }
+        a {
+            color: #007aff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .date {
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy for MathPath Console</h1>
+
+    <p><strong>Besat Arif Çıngar</strong> built the <strong>MathPath Console</strong> app as a Free app. This SERVICE is provided by Besat Arif Çıngar at no cost and is intended for use as is.</p>
+
+    <p>This page is used to inform visitors regarding my policies on the collection, use, and disclosure of information. MathPath Console is a math solver. Its core principle is to solve your math problems while collecting as little data as possible. The app does not require any account, registration, or sign-in.</p>
+
+    <h3>Information Collection and Use</h3>
+    <p>I do not ask for and do not collect your name, email address, phone number, or physical location. The app does not have user accounts. The information described below is the only data that leaves your device.</p>
+
+    <p><strong>Math Expressions:</strong> When you type or speak a math problem, some calculations are performed on your device and others are solved on our server. For server calculations, the expression you entered is sent over a secure HTTPS connection to our server, where it is solved, and the step-by-step result is returned to the app.</p>
+
+    <p><strong>Photo and Camera Feature (Optional):</strong> MathPath Console lets you take a photo with your camera or select a photo from your library so that the problem in the photo can be read and solved. If you choose to use it, the app asks for access to your camera or photo library. Only the photo you take or select is used.</p>
+    <ul>
+        <li>The selected photo is sent over a secure HTTPS connection to our server <strong>only</strong> to read and solve the problem in it.</li>
+        <li>The photo is <strong>deleted from the server as soon as the processing is finished</strong>. It is not kept, not shared with other users, and not used for advertising.</li>
+        <li>Photos you take are not saved to your photo library by the app.</li>
+        <li>This feature is entirely optional. You can deny camera or photo access at any time in your device's Settings, and the rest of the app will continue to work normally.</li>
+    </ul>
+
+    <p><strong>AI Chat:</strong> When you use the built-in AI tutor, the messages you write (and the math problem you are working on) are sent over HTTPS to our server, which uses a third-party AI service provider to generate the answer. The AI tutor is intended for math-related questions only. Please do not enter personal or sensitive information in the chat.</p>
+
+    <p><strong>Voice Input and Blind Mode:</strong> The voice features let you speak math problems and commands, and the app can read results aloud. If you choose to use them, the app asks for microphone and speech recognition permission. Speech is converted to text by the speech recognition service of your device's operating system (for example, Apple's speech recognition on iOS), and results are read aloud by the text-to-speech engine of your device. The app does not record your voice and does not send audio recordings to our servers; only the recognized text is used, in the same way as typed text. You can turn these permissions off at any time in your device's Settings.</p>
+
+    <p><strong>Data Stored on Your Device:</strong> Your calculation history, language and theme settings, and your remaining photo and chat credits are stored locally on your device. This data is not transmitted to us and is removed when you delete the app.</p>
+
+    <p><strong>Credits and Rewarded Ads:</strong> The photo and AI chat features use credits. You start with free credits and can earn more by watching an optional rewarded video ad. To provide this feature, the app integrates a third-party advertising service, <strong>Google AdMob</strong>. The app may also show banner ads.</p>
+
+    <p>Google AdMob may automatically collect certain information to serve ads, personalize them, and measure their performance. This may include:</p>
+    <ul>
+        <li><strong>Device Identifiers (e.g., IDFA / Advertising ID):</strong> Used to deliver, frequency-cap, and measure ads on your device.</li>
+        <li><strong>Usage &amp; Advertising Data:</strong> Used to track ad interactions and verify whether a rewarded ad was watched completely so the app can grant your credits.</li>
+        <li><strong>Approximate Location (Coarse Location):</strong> Derived from your IP address by the ad network to serve regionally relevant ads.</li>
+        <li><strong>Diagnostics:</strong> Crash logs and performance data to ensure stability of the advertising SDK.</li>
+    </ul>
+    <p>Your photos, voice, and chat messages are not part of this data and are never provided to Google AdMob.</p>
+
+    <p><strong>App Tracking Transparency (ATT):</strong> On iOS, if Google AdMob attempts to track your activity across other companies' apps and websites for personalized advertising, you will be presented with Apple's App Tracking Transparency permission prompt before any tracking occurs. You may allow or deny this permission at any time in your device's Settings under <em>Privacy &amp; Security &gt; Tracking</em>. Denying this permission does not affect your ability to use the app or earn credits from ads; it only limits ad personalization.</p>
+
+    <p><strong>Anonymous Diagnostics:</strong> To find and fix bugs and improve the app, MathPath Console sends anonymous diagnostic data to our server. This includes:</p>
+    <ul>
+        <li>Crash and error reports (for example, error type and technical details).</li>
+        <li>Whether a problem was solved successfully or not, and which features were used.</li>
+        <li>The math expression and result involved, for troubleshooting purposes.</li>
+        <li>Session start and end times.</li>
+    </ul>
+    <p>This data is tied only to a random, anonymous identifier that the app generates on your device when it is first opened. It is not linked to your name, email address, phone number, account, or advertising identifier, and I do not try to identify individual users. For example, the data may show that a certain type of problem failed three times, but not who experienced it. It is used only to analyze crashes and errors and to improve the app. Deleting the app removes this identifier from your device.</p>
+
+    <p><strong>Third-Party Privacy Policies</strong><br>
+    For more details on how Google AdMob processes data, please review their official privacy policy:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google AdMob &amp; Google Play Services</a></li>
+    </ul>
+
+    <h3>Data Retention &amp; Deletion</h3>
+    <p>Photos you submit are deleted from our server as soon as processing is finished. Math expressions and anonymous diagnostic data are kept only for as long as needed to analyze errors and improve the app. Because the app does not use user accounts, I cannot link any data to a specific person. You can remove all data stored on your device, including your history and your anonymous identifier, by clearing the app's storage or uninstalling the app. If you have any questions about your data, you can contact me using the email address below.</p>
+
+    <h3>Security</h3>
+    <p>All communication between the app and our server is made over secure HTTPS connections. However, no method of electronic transmission or storage is completely secure, and I cannot guarantee absolute security.</p>
+
+    <h3>Children's Privacy</h3>
+    <p>MathPath Console is an educational math tool and does not contain any inappropriate content. I do not knowingly collect personally identifiable information from anyone, including children. Rewarded and banner ads are served via Google AdMob. Parents and guardians can manage ad personalization and tracking in the device's Settings and can disable the device's internet connection for the app if they prefer an offline experience; note that server-based solving, photo recognition, and AI chat require an internet connection.</p>
+
+    <h3>Changes to This Privacy Policy</h3>
+    <p>I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+    <p class="date">This policy is effective as of November 20, 2026.</p>
+
+    <h3>Contact Us</h3>
+    <p>If you have any questions or suggestions about my Privacy Policy, or the app in general, do not hesitate to contact me at: <strong><a href="mailto:besatt59@gmail.com">besatt59@gmail.com</a></strong></p>
+</div>
+
+</body>
+</html>
